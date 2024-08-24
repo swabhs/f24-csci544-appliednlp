@@ -1,0 +1,175 @@
+- week: 1
+  days:
+    - date: Jan 8
+      theme: Introduction and Course Overview
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec01-intro.pdf"
+    - date: Jan 10
+      theme: Class Cancelled
+
+
+- week: 2
+  days:
+    - date: Jan 15
+      theme: No Class / MLK Day
+    - date: Jan 17
+      theme: n-gram Language Models I
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec02-ngrams.pdf"
+      readings: Jurafsky and Martin, 3.1-3.3
+      readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
+      due: HW1 Released
+
+- week: 3
+  days:
+    - date: Jan 22
+      theme: n-gram Language Models II
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec03-ngrams-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 3.4-3.7]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/3.pdf
+      additional: Mitchell, Chap 2, Estimating Probabilities
+      additionallink: "https://www.cs.cmu.edu/~tom/mlbook/Joint_MLE_MAP.pdf"
+    - date: Jan 24
+      theme: Project Pitches
+
+- week: 4
+  days:
+    - date: Jan 29
+      theme: Logistic Regression
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec04-logistic-regression.pdf"
+      readings: Jurafsky and Martin, [Chap 5.1-5.2,5.4-5.5]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+    - date: Jan 31
+      theme: Logistic Regression II
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec05-logistic-regression-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 5.3, 5.6-5.8]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/5.pdf
+      due: HW1 Due
+
+- week: 5
+  days:
+    - date: Feb 5
+      theme: Word Embeddings I
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec06-word-embeddings.pdf"
+      readings: Jurafsky and Martin, [Chap 6.3-6.7]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+    - date: Feb 7
+      theme: Word Embeddings II
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec07-word-embeddings-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 6.8-6.13]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
+      due: Project Proposal Due; HW2 Released
+
+- week: 6
+  days:
+    - date: Feb 12
+      theme: Feedforward Neural Net Language Models
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec08-ffnn.pdf"
+      readings: Jurafsky and Martin, [Chap 7]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
+    - date: Feb 14
+      theme: Recurrent Neural Net Language Models
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec09-rnn.pdf"
+      readings: Jurafsky and Martin, [Chap 9]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+
+
+- week: 7
+  days:
+    - date: Feb 19
+      theme: No Class / President's Day
+    - date: Feb 21
+      theme: Sequence-to-Sequence and Attention
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec10-seq2seq.pdf"
+      readings: Jurafsky and Martin, [Chap 9.7-9.8]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+
+- week: 8
+  days:
+    - date: Feb 26
+      theme: Transformers - Building Blocks
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec11-transformers.pdf"
+      readings: Jurafsky and Martin, [Chap 10]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+      due: HW2 Due
+    - date: Feb 28
+      theme: Project Discussions
+
+- week: 9
+  days:
+    - date: Mar 4
+      theme: Transformers - Building Blocks II
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec12-transfomers-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 10]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+      due: Project Progress Report; HW3 Released
+    - date: Mar 6
+      theme: PyTorch Demo
+      slides: "https://colab.research.google.com/drive/15VYKmdqEkmfeOSkDXVuhN0dkyRCnHpcT?usp=sharing"
+
+- week: 10
+  days:
+    - date: Mar 11
+      theme: Spring Break
+    - date: Mar 13
+      theme: Spring Break
+
+- week: 11
+  days:
+    - date: Mar 18
+      theme: Pretraining and Finetuning Transformers
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec13-finetuning-transformers.pdf"
+      readings: Jurafsky and Martin, [Chap 11.1-11.2]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/11.pdf
+    - date: Mar 20
+      theme: Pretraining and Finetuning Transformers - Contd.
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec14-finetuning-transformers-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 11.3]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/11.pdf
+      due: HW3; HW4 Released
+
+- week: 12
+  days:
+    - date: Mar 25
+      theme: LLM Harms - Guest Lecture
+      slides: "https://drive.google.com/file/d/1HNR4CywCWBroKJy6YS9X4K-DMkT0ZA5s/view?usp=sharing"
+    - date: Mar 27
+      theme: Language Generation
+      slides: "../../assets/slides/24s-csci499-lmsnlp-lec16-generation.pdf"
+      readings: Jurafsky and Martin, [Chap 13.4]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+
+- week: 13
+  days:
+    - date: Apr 1
+      theme: Language Generation - Modern Sampling
+      slides: "../assets/slides/24s-csci499-lmsnlp-lec17-generation-contd.pdf"
+      readings: Jurafsky and Martin, [Chap 10.8]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
+    - date: Apr 3
+      theme: Evaluating Generations + Prompting and Instruction Tuning
+      slides: "../assets/slides/24s-csci499-lmsnlp-lec18-generative-eval-prompting.pdf"
+      readings: Jurafsky and Martin, [Chap 13.6]
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
+      due: HW4 Due
+
+- week: 14
+  days:
+    - date: Apr 8
+      theme: Project Discussions
+    - date: Apr 10
+      theme: Aligning LLMs
+      slides: "../assets/slides/24s-csci499-lmsnlp-lec19-prompting-alignment.pdf"
+
+- week: 15
+  days:
+    - date: Apr 15
+      theme: Advanced Topics + Putting it all together
+      slides: "../assets/slides/24s-csci499-lmsnlp-lec20-outro.pdf"
+    - date: Apr 17
+      theme: Final Presentations I
+
+- week: 16
+  days:
+    - date: Apr 22
+      theme: Final Presentations II
+    - date: Apr 24
+      theme: Final Presentations III
