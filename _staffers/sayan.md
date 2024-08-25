@@ -4,7 +4,5 @@ role: Teaching Assistant
 email: ghoshsay@usc.edu
 website: https://sghosh73.github.io/
 photo: sayan.jpeg
+office-hours: TBD
 ---
-
-
-Office Hours: Wed 2-3pm; Location RTH 4th Floor Lobby

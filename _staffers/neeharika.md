@@ -1,7 +1,7 @@
 ---
 role: Grader
 name: Neeharika Gupta
-email:
+email: guptanee@usc.edu
 photo: neeharika.jpeg
-website:
+website: https://www.linkedin.com/in/neeharikaagupta/
 ---
