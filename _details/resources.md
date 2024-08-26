@@ -1,20 +1,9 @@
 ---
-title: More Resources
+title: Readings
 nav_exclude: false
 include_nav_home: true
 ---
 
-
-## Resources
-
-<!-- * **Google Drive.** Course lectures, reading lists, etc., are in a [Google Drive folder]() which will be shared with all students. You will also use Google Drive for submitting your quizzes and project proposal, progress report and final report. -->
-* **Piazza.** Homework-related announcements and majority of the student Q/A with the instructor / TAs may be done through Piazza. We also have a link for anonymous feedback for the course.
-
-* **Slack.** Students may reach out to communicate with each other and the instructor / TAs via the private Slack channel, on the USC Viterbi School of Engineering Classes workspace. To be used sparsely and for quick last minute announcements.
-
-<!-- * **Mailing List.** Announcements for the entire class will be made via the mailing list the enrolled students have been added to, in addition to the [course website](../../#announcements). -->
-
-* **Blackboard.** For submitting homework, project reports and occasionally quizzes and for viewing grades.
 
 
 ### Required Readings

@@ -63,7 +63,7 @@
       slides:
       readings:
       readingslink:
-      due:
+      due: Quiz 3
 
 - week: 6
   days:
@@ -79,7 +79,7 @@
       slides:
       readings:
       readingslink:
-      due:
+      due: HW2 Due; HW3 Release
 
 
 - week: 7
@@ -91,12 +91,13 @@
       readingslink:
       additional:
       additionallink:
+      due: Quiz 4 + Mid-Semester Evaluation
     - date: Oct 10
       theme: Fall Break
       slides:
       readings:
       readingslink:
-      due:
+      due: Project Proposal Due on Oct 9
 
 - week: 8
   days:
@@ -113,6 +114,7 @@
   days:
     - date: Oct 22
       theme: Prompting LLMs
+      due: HW3 Due; HW4 Released
     - date: Oct 24
       theme: Preference-Tuning LLMs
       due: Paper Selection Due
