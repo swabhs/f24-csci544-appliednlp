@@ -2295,9 +2295,9 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 
 a abbr[title] { border-bottom: none; }
 
-a { color: #f96e65; }
+a { color: #e7af06; }
 
-::selection { color: #fff; background: #f77e7e; }
+::selection { color: #fff; background: #fadf50; }
 
 abbr[title] { text-decoration: none; }
 

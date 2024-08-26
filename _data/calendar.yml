@@ -23,42 +23,43 @@
 - week: 3
   days:
     - date: Sep 10
-      theme:
+      theme: Word Embeddings
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Sep 12
-      theme:
+      theme: Feedforward Neural Nets
       slides:
       readings:
       readingslink:
-      due:
+      due: Quiz 2
 
 - week: 4
   days:
     - date: Sep 17
-      theme:
+      theme: Backprop
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
+      due: HW1 Due; HW2 Released; Group Formation Deadline
     - date: Sep 19
-      theme:
+      theme: Recurrent Neural Nets
 
 - week: 5
   days:
     - date: Sep 24
-      theme:
+      theme: Sequence-to-Sequence and Attention
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Sep 26
-      theme:
+      theme: Transformers - Building Blocks I
       slides:
       readings:
       readingslink:
@@ -67,14 +68,14 @@
 - week: 6
   days:
     - date: Oct 1
-      theme:
+      theme: Transformers - Building Blocks II
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Oct 3
-      theme:
+      theme: Pre-training and Finetuning Transformers
       slides:
       readings:
       readingslink:
@@ -84,7 +85,7 @@
 - week: 7
   days:
     - date: Oct 8
-      theme:
+      theme: Guest Lecture - PyTorch for Transformers
       slides:
       readings:
       readingslink:
@@ -101,11 +102,6 @@
   days:
     - date: Oct 15
       theme: Midterm Exam
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
     - date: Oct 17
       theme: Generating from LMs
       slides:
@@ -116,78 +112,46 @@
 - week: 9
   days:
     - date: Oct 22
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Prompting LLMs
     - date: Oct 24
-      theme:
-      slides:
-      readings:
-      readingslink:
-      due:
+      theme: Preference-Tuning LLMs
+      due: Paper Selection Due
 
 - week: 10
   days:
     - date: Oct 29
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Ethics and Advanced Topics
+      due: Quiz 5
     - date: Oct 31
-      theme:
-      slides:
-      readings:
-      readingslink:
-      due:
+      theme: Paper Presentation I
+      due: Project Status Report Due
 
 - week: 11
   days:
     - date: Nov 5
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Paper Presentation II
     - date: Nov 7
-      theme:
-      slides:
-      readings:
-      readingslink:
-      due:
+      theme: Paper Presentation III
 
 - week: 12
   days:
     - date: Nov 12
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Paper Presentation IV
+      due: HW4 Deadline
     - date: Nov 14
-      theme:
-      slides:
-      readings:
-      readingslink:
-      due:
+      theme: Guest Lecture - TBD
 
 - week: 13
   days:
     - date: Nov 19
-      theme:
+      theme: Project Presentation I
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Nov 21
-      theme:
+      theme: Project Presentation II
       slides:
       readings:
       readingslink:
@@ -196,33 +160,16 @@
 - week: 14
   days:
     - date: Nov 26
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Project Presentation III
     - date: Nov 28
-      theme:
-      slides:
-      readings:
-      readingslink:
-      due:
+      theme: Thanksgiving
+
 
 - week: 15
   days:
     - date: Dec 3
-      theme:
-      slides:
-      readings:
-      readingslink:
-      additional:
-      additionallink:
+      theme: Project Presentation IV
     - date: Dec 5
-      theme:
-      slides:
-      readings:
-      readingslink:
       due: Final Exam
 
 - week: 16
@@ -235,5 +182,5 @@
 - week: 17
   days:
     - date: Dec 17
-      theme: Project Final
+      theme: Project Final Report
       due: Due by 6:30pm

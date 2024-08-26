@@ -13,12 +13,12 @@ a abbr[title] {
 }
 
 a {
-  color: $red-100; // Customized by SS; source just-the-docs https://just-the-docs.com/docs/utilities/color/#reds
+  color: $yellow-300; // Customized by SS; source just-the-docs https://just-the-docs.com/docs/utilities/color/#reds
 }
 
 ::selection {
   color: $white;
-  background: $red-000; // Customized by SS; source just-the-docs https://just-the-docs.com/docs/utilities/color/#reds
+  background: $yellow-100; // Customized by SS; source just-the-docs https://just-the-docs.com/docs/utilities/color/#reds
 }
 
 abbr[title] {
