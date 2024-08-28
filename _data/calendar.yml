@@ -2,7 +2,7 @@
   days:
     - date: Aug 27
       theme: Introduction to LMs and Course Overview
-      slides:
+      slides: "../../assets/slides/24f-csci544-appliednlp-lec01-introduction.pdf"
     - date: Aug 29
       theme: n-gram Models
       slides:

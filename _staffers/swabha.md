@@ -4,5 +4,5 @@ role: Instructor
 email: swabhas@usc.edu
 website: https://swabhs.com/
 photo: swabha.jpg
-office-hours: Wednesdays 8-9 am @ Zoom (link on Brightspace)
+office-hours: Wednesdays 8-9 AM @ Zoom (link on Brightspace)
 ---
