@@ -74,7 +74,7 @@ This course covers both fundamental and cutting-edge topics in Natural Language 
         <!-- <td>{{day.theme}}</td> -->
         <td class="cal-content">
         {% if day.slides %}
-          <a href="{{day.slides}}">{{day. theme}}</a>
+          <a href="{{day.slides}}">{{day.theme}}</a>
         {% else %}
           {{day.theme}}
         {% endif %}

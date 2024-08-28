@@ -2,10 +2,12 @@
   days:
     - date: Aug 27
       theme: Introduction to LMs and Course Overview
-      slides: "../../assets/slides/24f-csci544-appliednlp-lec01-introduction.pdf"
+      slides: "./assets/slides/24f-csci544-appliednlp-lec01-introduction.pdf"
     - date: Aug 29
       theme: n-gram Models
       slides:
+      readings: Jurafsky and Martin, Chap 3
+      readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
 
 
 - week: 2
@@ -13,6 +15,8 @@
     - date: Sep 3
       theme: Naive Bayes; Logistic Regression
       slides:
+      readings:
+      readingslink:
       due: HW1 Released; Quiz 1
     - date: Sep 5
       theme: Naive Bayes; Logistic Regression (contd)
