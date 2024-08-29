@@ -17,12 +17,13 @@
       slides:
       readings:
       readingslink:
-      due: HW1 Released; Quiz 1
+      due: HW1 Released
     - date: Sep 5
       theme: Naive Bayes; Logistic Regression (contd)
       slides:
       readings:
       readingslink:
+      quiz: Quiz 1
 
 - week: 3
   days:
@@ -33,12 +34,13 @@
       readingslink:
       additional:
       additionallink:
+      due: Group Formation Deadline
     - date: Sep 12
       theme: Feedforward Neural Nets
       slides:
       readings:
       readingslink:
-      due: Quiz 2
+      quiz: Quiz 2
 
 - week: 4
   days:
@@ -49,7 +51,8 @@
       readingslink:
       additional:
       additionallink:
-      due: HW1 Due; HW2 Released; Group Formation Deadline
+      due: HW1 Due; HW2 Release
+      project:
     - date: Sep 19
       theme: Recurrent Neural Nets
 
@@ -62,12 +65,13 @@
       readingslink:
       additional:
       additionallink:
+      quiz: Quiz 3
     - date: Sep 26
       theme: Transformers - Building Blocks I
       slides:
       readings:
       readingslink:
-      due: Quiz 3
+      project: Project Proposal Due
 
 - week: 6
   days:
@@ -78,12 +82,14 @@
       readingslink:
       additional:
       additionallink:
+      due: HW2 Due; HW3 Release
     - date: Oct 3
       theme: Pre-training and Finetuning Transformers
       slides:
       readings:
       readingslink:
-      due: HW2 Due; HW3 Release
+      quiz: Quiz 4
+      due: Mid-Semester Evaluation
 
 
 - week: 7
@@ -95,18 +101,18 @@
       readingslink:
       additional:
       additionallink:
-      due: Quiz 4 + Mid-Semester Evaluation
+      due:
     - date: Oct 10
-      theme: Fall Break
+      break: Fall Break
       slides:
       readings:
       readingslink:
-      due: Project Proposal Due on Oct 9
+      due:
 
 - week: 8
   days:
     - date: Oct 15
-      theme: Midterm Exam
+      exam: Midterm Exam
     - date: Oct 17
       theme: Generating from LMs
       slides:
@@ -122,27 +128,27 @@
     - date: Oct 24
       theme: Preference-Tuning LLMs
       due: Paper Selection Due
+      project: Project Status Report Due
 
 - week: 10
   days:
     - date: Oct 29
       theme: Ethics and Advanced Topics
-      due: Quiz 5
+      quiz: Quiz 5
     - date: Oct 31
-      theme: Paper Presentation I
-      due: Project Status Report Due
+      paper: Paper Presentation I
 
 - week: 11
   days:
     - date: Nov 5
-      theme: Paper Presentation II
+      paper: Paper Presentation II
     - date: Nov 7
-      theme: Paper Presentation III
+      paper: Paper Presentation III
 
 - week: 12
   days:
     - date: Nov 12
-      theme: Paper Presentation IV
+      paper: Paper Presentation IV
       due: HW4 Deadline
     - date: Nov 14
       theme: Guest Lecture - TBD
@@ -150,14 +156,14 @@
 - week: 13
   days:
     - date: Nov 19
-      theme: Project Presentation I
+      project: Project Presentation I
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Nov 21
-      theme: Project Presentation II
+      project: Project Presentation II
       slides:
       readings:
       readingslink:
@@ -166,27 +172,26 @@
 - week: 14
   days:
     - date: Nov 26
-      theme: Project Presentation III
+      project: Project Presentation III
     - date: Nov 28
-      theme: Thanksgiving
+      break: Thanksgiving
 
 
 - week: 15
   days:
     - date: Dec 3
-      theme: Project Presentation IV
+      project: Project Presentation IV
     - date: Dec 5
-      due: Final Exam
+      exam: Final Exam
 
 - week: 16
   days:
     - date: Dec 10
-      theme: Study Week
+      break: Study Week
     - date: Dec 12
-      theme: Study Week
+      break: Study Week
 
 - week: 17
   days:
     - date: Dec 17
-      theme: Project Final Report
-      due: Due by 6:30pm
+      project: Project Final Report due by 6:30pm

@@ -78,6 +78,9 @@ This course covers both fundamental and cutting-edge topics in Natural Language 
         {% else %}
           {{day.theme}}
         {% endif %}
+        {% if day.paper %}
+          <span style="color:teal">{{day.paper}}</span>
+        {% endif %}
         </td>
         <td class="cal-content">
           {% if day.readingslink %}
@@ -93,7 +96,23 @@ This course covers both fundamental and cutting-edge topics in Natural Language 
             {% endif %}
           {% endif %}
         </td>
-        <td class="cal-content">{{day.due}}</td>
+        <td class="cal-content">
+          {% if day.exam %}
+            <span style="color:red">{{day.exam}}</span>
+          {% endif %}
+          {% if day.project %}
+            <span style="color:blue">{{day.project}}; </span>
+          {% endif %}
+          {% if day.break %}
+            <span style="color:green">{{day.break}}</span>
+          {% endif %}
+          {% if day.quiz %}
+            <span style="color:fuchsia">{{day.quiz}}; </span>
+          {% endif %}
+          {% if day.due %}
+              {{day.due}}
+          {% endif %}
+        </td>
       </tr>
     {% endfor %}
   {% endfor %}
