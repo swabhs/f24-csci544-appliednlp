@@ -5,7 +5,7 @@
       slides: "./assets/slides/24f-csci544-appliednlp-lec01-introduction.pdf"
     - date: Aug 29
       theme: n-gram Models
-      slides:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec02-ngrams.pdf"
       readings: Jurafsky and Martin, Chap 3
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
 
@@ -13,7 +13,7 @@
 - week: 2
   days:
     - date: Sep 3
-      theme: Naive Bayes; Logistic Regression
+      theme: n-gram Language Models (Smoothing) + Logistic Regression
       slides:
       readings:
       readingslink:
