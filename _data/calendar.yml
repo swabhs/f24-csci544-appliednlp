@@ -14,12 +14,12 @@
   days:
     - date: Sep 3
       theme: n-gram Language Models (Smoothing) + Logistic Regression
-      slides:
-      readings:
-      readingslink:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec03-ngrams-contd-textcat.pdf"
+      readings: Jurafsky and Martin, Chap 3
+      readingslink: "https://web.stanford.edu/~jurafsky/slp3/3.pdf"
       due: HW1 Released
     - date: Sep 5
-      theme: Naive Bayes; Logistic Regression (contd)
+      theme: Logistic Regression (contd)
       slides:
       readings:
       readingslink:
