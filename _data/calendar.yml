@@ -20,7 +20,7 @@
       due: HW1 Released
     - date: Sep 5
       theme: Logistic Regression (contd.)
-      slides: 
+      slides: "./assets/slides/24f-csci544-appliednlp-lec04-logistic-regression.pdf"
       readings: Jurafsky and Martin, Chap 5
       readingslink: "https://web.stanford.edu/~jurafsky/slp3/5.pdf"
       quiz: Quiz 1
