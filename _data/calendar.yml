@@ -30,22 +30,22 @@
     - date: Sep 10
       theme: Word Embeddings
       slides: "./assets/slides/24f-csci544-appliednlp-lec05-word-embeddings.pdf"
-      readings:
-      readingslink:
+      readings: Jurafsky and Martin, Chap 6
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       additional:
       additionallink:
-      due: Group Formation Deadline
+      project: Group Formation Deadline
     - date: Sep 12
-      theme: Feedforward Neural Nets
+      theme: Word Embeddings (contd.)
       slides:
-      readings:
-      readingslink:
+      readings: Jurafsky and Martin, Chap 6
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
 
 
 - week: 4
   days:
     - date: Sep 17
-      theme: Backprop
+      theme: Feedforward Neural Nets and Backprop
       slides:
       readings:
       readingslink:
