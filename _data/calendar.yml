@@ -29,7 +29,7 @@
   days:
     - date: Sep 10
       theme: Word Embeddings
-      slides:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec05-word-embeddings.pdf"
       readings:
       readingslink:
       additional:
