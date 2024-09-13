@@ -37,7 +37,7 @@
       project: Group Formation Deadline
     - date: Sep 12
       theme: Word Embeddings (contd.)
-      slides:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec06-word-embeddings-contd.pdf"
       readings: Jurafsky and Martin, Chap 6
       readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
 
