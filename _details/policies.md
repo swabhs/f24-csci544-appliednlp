@@ -42,6 +42,7 @@ Academic Integrity’s website](https://academicintegrity.usc.edu/), and univers
 
 
 ### Policy for the use of AI Generators
+
 Generative AI permitted but limited as follows: In this course, you are permitted to use artificial
 intelligence (AI)- powered programs to help you, but only on assignments that explicitly indicate a
 permitted use of AI. However:
