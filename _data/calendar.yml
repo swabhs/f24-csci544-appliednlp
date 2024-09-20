@@ -55,6 +55,9 @@
       project:
     - date: Sep 19
       theme: Recurrent Neural Nets
+      slides: "./assets/slides/24f-csci544-appliednlp-lec08-ffnn-contd.pdf"
+      readings: J&M, Chap 7
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       due: HW1 Due; HW2 Release
 
 - week: 5
