@@ -85,7 +85,7 @@
       readingslink:
       additional:
       additionallink:
-      due: HW2 Due; HW3 Release
+      due: 
     - date: Oct 3
       theme: Pre-training and Finetuning Transformers
       slides:
@@ -104,7 +104,7 @@
       readingslink:
       additional:
       additionallink:
-      due:
+      due: HW2 Due; HW3 Release
     - date: Oct 10
       break: Fall Break
       slides:
