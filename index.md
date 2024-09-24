@@ -120,7 +120,7 @@ This course covers both fundamental and cutting-edge topics in Natural Language 
 </table>
 
 
-Calendar and [prespecified syllabus](https://web-app.usc.edu/soc/syllabus/20243/30249.pdf) are subject to change. More details, e.g. reading materials and additional resources will be added as the semester continues. All work (except the project final report) is due on the specified date by **2:59 PM PT**{: .label .label-red }.
+Calendar and [prespecified syllabus](https://web-app.usc.edu/soc/syllabus/20243/30249.pdf) are subject to change. More details, e.g. reading materials and additional resources will be added as the semester continues. All work (except the project final report) is due on the specified date by **11:59 PM PT**{: .label .label-red }.
 
 
 ## Assignments and Grading
@@ -143,7 +143,7 @@ There will be three components to course grades:
   * Midterm (10%): The midterm exam will contain a mixture of multiple choice and long form questions, covering about the first half of the material covered in the class.
   * Final (15%): The final exam at the end of the semester covering all of the material covered in the class will contain a mixture of multiple choice and long form questions.
 
-Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TAs) within two weeks from the grading date. Grades will be available within 2-2.5 weeks after submission.
+Grading inquiries and questions about the grading of the homeworks and the quizzes can be asked (to the TAs) within two weeks from the grading date (the date the grades are released). Grades will be available within 2-2.5 weeks after submission.
 
 All written assignments related to the final project should use the standard [*ACL paper submission template](https://github.com/acl-org/acl-style-files).
 

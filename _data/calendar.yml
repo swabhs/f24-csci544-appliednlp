@@ -39,16 +39,16 @@
       readings: J&M, Chap 6
       readingslink: https://web.stanford.edu/~jurafsky/slp3/6.pdf
       additional: word2vec Explained
-      additionallink: https://arxiv.org/abs/1402.3722v1 
+      additionallink: https://arxiv.org/abs/1402.3722v1
 
 
 - week: 4
   days:
     - date: Sep 17
-      theme: Feedforward Neural Nets 
+      theme: Feedforward Neural Nets
       slides: "./assets/slides/24f-csci544-appliednlp-lec07-ffnn.pdf"
       readings: J&M, Chap 7
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf 
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/7.pdf
       additional:
       additionallink:
       quiz: Quiz 2
@@ -65,8 +65,8 @@
     - date: Sep 24
       theme: Recurrent Neural Networks
       slides:
-      readings:
-      readingslink:
+      readings: J&M, Chap 9
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       additional:
       additionallink:
     - date: Sep 26
