@@ -64,7 +64,7 @@
   days:
     - date: Sep 24
       theme: Recurrent Neural Networks
-      slides:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec09-rnn.pdf"
       readings: J&M, Chap 9
       readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       additional:
