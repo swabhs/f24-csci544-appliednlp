@@ -65,15 +65,15 @@
     - date: Sep 24
       theme: Recurrent Neural Networks
       slides: "./assets/slides/24f-csci544-appliednlp-lec09-rnn.pdf"
-      readings: J&M, Chap 9
-      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
+      readings: J&M, Chap 8
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       additional:
       additionallink:
     - date: Sep 26
       theme: Seq2Seq and Attention
-      slides:
-      readings:
-      readingslink:
+      slides: "./assets/slides/24f-csci544-appliednlp-lec10-seq2seq.pdf"
+      readings: J&M, Chap 8
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/8.pdf
       project: Project Proposal Due
 
 - week: 6
@@ -81,8 +81,8 @@
     - date: Oct 1
       theme: Transformers - Building Blocks
       slides:
-      readings:
-      readingslink:
+      readings: J&M, Chap 9
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       additional:
       additionallink:
       due: 
