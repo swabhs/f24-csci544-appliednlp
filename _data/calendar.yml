@@ -84,10 +84,10 @@
       readings: J&M, Chap 9
       readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
     - date: Oct 3
-      theme: Pre-training and Finetuning Transformers
-      slides:
-      readings:
-      readingslink:
+      theme: Transformers (contd.)
+      slides: "./assets/slides/24f-csci544-appliednlp-lec12-pretraining-transformers.pdf"
+      readings: J&M, Chap 9
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/9.pdf
       quiz: Quiz 3
       due: Mid-Semester Evaluation
 
@@ -114,8 +114,8 @@
     - date: Oct 15
       exam: Midterm Exam
     - date: Oct 17
-      theme: Generating from LMs
-      slides:
+      theme:
+      slides: Pre-training and Finetuning Transformers
       readings:
       readingslink:
       due:
@@ -123,10 +123,10 @@
 - week: 9
   days:
     - date: Oct 22
-      theme: Prompting LLMs
+      theme: Generating from LMs
       due: HW3 Due; HW4 Released
     - date: Oct 24
-      theme: Preference-Tuning LLMs
+      theme: Large Language Models - Prompting and Preference Tuning
       due: Paper Selection Due
       project: Project Status Report Due
 
