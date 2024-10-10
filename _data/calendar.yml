@@ -114,8 +114,8 @@
     - date: Oct 15
       exam: Midterm Exam
     - date: Oct 17
-      theme:
-      slides: Pre-training and Finetuning Transformers
+      theme: Pre-training and Finetuning Transformers
+      slides: 
       readings:
       readingslink:
       due:
