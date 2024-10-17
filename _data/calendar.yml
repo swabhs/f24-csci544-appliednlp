@@ -115,7 +115,7 @@
       exam: Midterm Exam
     - date: Oct 17
       theme: Pre-training and Finetuning Transformers
-      slides: "./assets/slides/24f-csci544-appliednlp-lec15-pretraining-finetuning"
+      slides: "./assets/slides/24f-csci544-appliednlp-lec15-pretraining-finetuning.pdf"
       readings: J&M, Chaps 10, 11
       readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
       due:
