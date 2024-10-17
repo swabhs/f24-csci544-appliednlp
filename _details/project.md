@@ -21,11 +21,11 @@ We highly encourage students to work towards a problem involving predictive mode
 
 ### Project progress report (8%).
 
-Student teams should submit a ~3-page progress report (using the [*CL paper submission template](https://github.com/acl-org/acl-style-files)) for their project by the end of Week 8. This report should:
-  - once again describe the project’s goals (it is okay if this has changed since the proposal),
-  - contain all details on the dataset (your dataset should mostly be collected by now),
-  - contain some initial results (think of this as a motivating result), and
-  - must outline a concrete plan of what will be done for the final report.
+Student teams should submit a ~3-page progress report (using the [*CL paper submission template](https://github.com/acl-org/acl-style-files)) for their project by the end of Week 9. This report should:
+  - once again describe the project’s goals (it is okay if this has changed slightly since the proposal, based on the feedback),
+  - contain all details on the dataset (your dataset should mostly be collected by this time),
+  - contain some initial results (think of this as a motivating results), and
+  - must outline a concrete plan of what will be done before the final report.
 
 While the initial results might be inconclusive, you are expected to have made non-trivial progress by this point. The project proposal may be extended for this report. Please take into consideration the earlier feedback you received, and address those inline (you may highlight these in a different text color if you wish to draw the grader's attention).
 
