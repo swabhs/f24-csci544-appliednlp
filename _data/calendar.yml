@@ -116,8 +116,8 @@
     - date: Oct 17
       theme: Pre-training and Finetuning Transformers
       slides: 
-      readings:
-      readingslink:
+      readings: J&M, Chap 10, 11
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
       due:
 
 - week: 9
@@ -128,7 +128,7 @@
     - date: Oct 24
       theme: Large Language Models - Prompting and Preference Tuning
       due: Paper Selection Due
-      project: Project Status Report Due
+      project: Project Status Report Due on 10/25
 
 - week: 10
   days:
