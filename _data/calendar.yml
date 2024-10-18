@@ -96,7 +96,7 @@
   days:
     - date: Oct 8
       theme: Guest Lecture - PyTorch for Transformers
-      slides:
+      slides: "https://colab.research.google.com/drive/15VYKmdqEkmfeOSkDXVuhN0dkyRCnHpcT?usp=sharing"
       readings:
       readingslink:
       additional:
