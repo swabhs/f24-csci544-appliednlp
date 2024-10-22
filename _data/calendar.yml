@@ -123,7 +123,10 @@
 - week: 9
   days:
     - date: Oct 22
-      theme: Generating from LMs
+      theme: Tokenization and Generating from LMs
+      slides: "./assets/slides/24f-csci544-appliednlp-lec16-tokenization-generation.pdf"
+      readings: J&M, Chaps 2.5, 13
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       due: HW3 Due; HW4 Released
     - date: Oct 24
       theme: Large Language Models - Prompting and Preference Tuning
