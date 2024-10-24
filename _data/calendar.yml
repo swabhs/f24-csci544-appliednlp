@@ -129,33 +129,35 @@
       readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
       due: HW3 Due; HW4 Released
     - date: Oct 24
-      theme: Large Language Models - Prompting and Preference Tuning
-      due: Paper Selection Due
-      project: Project Status Report Due on 10/25
+      theme: Language Generation
+      slides: "./assets/slides/24f-csci544-appliednlp-lec17-generation.pdf"
+      readings: J&M, Chaps 13
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/13.pdf
 
 - week: 10
   days:
     - date: Oct 29
-      theme: Ethics and Advanced Topics
-      quiz: Quiz 4
+      theme: Large Language Models - Prompting and Preference Tuning
+      project: Project Status Report Due on 10/25
     - date: Oct 31
       paper: Paper Presentation I
 
 - week: 11
   days:
     - date: Nov 5
-      paper: Paper Presentation II
+      paper: Paper Presentation II + Ethics and Advanced Topics
     - date: Nov 7
       paper: Paper Presentation III
+      quiz: Quiz 4
 
 - week: 12
   days:
     - date: Nov 12
       paper: Paper Presentation IV
-      due: HW4 Deadline
+      quiz: Quiz 5
     - date: Nov 14
       theme: Guest Lecture by <a href="https://willieneis.github.io/">Prof. Neiswanger</a>
-      quiz: Quiz 5
+      due: HW4 Deadline
 
 - week: 13
   days:
