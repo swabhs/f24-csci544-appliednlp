@@ -138,9 +138,9 @@
   days:
     - date: Oct 29
       theme: Large Language Models - Prompting and Preference Tuning
-      project: Project Status Report Due on 10/25
+      project: Project Status Report Due
     - date: Oct 31
-      paper: Paper Presentation I
+      paper: Paper Presentation I + Ethics and Advanced Topics
 
 - week: 11
   days:
@@ -156,8 +156,8 @@
       paper: Paper Presentation IV
       quiz: Quiz 5
     - date: Nov 14
-      theme: Guest Lecture by <a href="https://willieneis.github.io/">Prof. Neiswanger</a>
-      due: HW4 Deadline
+      theme: Guest Lecture on Pretraining LLMs by <a href="https://willieneis.github.io/">Prof. Neiswanger</a>
+      due: HW4 Due
 
 - week: 13
   days:
