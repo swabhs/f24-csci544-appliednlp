@@ -138,6 +138,9 @@
   days:
     - date: Oct 29
       theme: Large Language Models - Prompting and Preference Tuning
+      slides: "./assets/slides/24f-csci544-appliednlp-lec18-llms.pdf"
+      readings: J&M, Chaps 10, 12
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/10.pdf
       project: Project Status Report Due
     - date: Oct 31
       paper: Paper Presentation I + Ethics and Advanced Topics
