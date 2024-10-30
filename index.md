@@ -138,7 +138,17 @@ There will be three components to course grades:
   * Project Presentation: 10%
   * Final Write-up: 18%
 * **Paper Presentations (5%).**
-  * The project teams will present a scientific publication related to their project to the class. All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor and fellow students.
+  * The project teams will present a scientific publication related to their project to the class.
+  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor and fellow students.
+  * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly!
+  * The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared!
+  * The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this.
+  * If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).
+  * Each team will prepare 3 slides to be shared with their assigned TAs by 11:59 PM the day before the presentation.
+  * Content of the slides:
+    * Slide 1: Main Research Question in the paper,
+    * Slide 2: Main Results Summarized,
+    * Slide 3: How this influences your project.
 * **Exams (25%)**
   * Midterm (10%): The midterm exam will contain a mixture of multiple choice and long form questions, covering about the first half of the material covered in the class.
   * Final (15%): The final exam at the end of the semester covering all of the material covered in the class will contain a mixture of multiple choice and long form questions.
