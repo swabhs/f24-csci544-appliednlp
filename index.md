@@ -144,7 +144,7 @@ There will be three components to course grades:
   * The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared!
   * The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this.
   * If you are NOT presenting, you could participate in Q/A - bonus points will be awarded to folks who ask insightful questions (announce your name before you ask a question).
-  * Each team will prepare 3 slides to be shared with their assigned TAs by 11:59 PM the day before the presentation.
+  * Each team will prepare 3 slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share will cause a loss of grade.
   * Content of the slides:
     * Slide 1: Main Research Question in the paper,
     * Slide 2: Main Results Summarized,
