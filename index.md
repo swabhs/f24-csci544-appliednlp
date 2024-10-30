@@ -139,7 +139,7 @@ There will be three components to course grades:
   * Final Write-up: 18%
 * **Paper Presentations (5%).**
   * The project teams will present a scientific publication related to their project to the class.
-  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor and fellow students.
+  * All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students.
   * One member of team---randomly picked by the instructors a couple of hours before the presentation---will be the presenter, so please prepare accordingly!
   * The presenter is responsible for the entire team’s grade, so please ensure both you and your teammates are prepared!
   * The total time of each team's presentation is 5 minutes (3 min presentation + 2 min QA) - we will be very strict about this.
