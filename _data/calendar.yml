@@ -144,8 +144,10 @@
       project: Project Status Report Due
     - date: Oct 31
       theme: Large Language Models - Post-Training
+      readings: J&M, Chaps 12
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
-      paper: Paper Presentation I
+      paper: + Paper Presentation I
 
 - week: 11
   days:
