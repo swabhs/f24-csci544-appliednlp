@@ -152,7 +152,11 @@
 - week: 11
   days:
     - date: Nov 5
-      paper: Paper Presentation II + Ethics and Advanced Topics
+      paper: Paper Presentation II
+      theme: LLMs - Preference Tuning + Harms
+      slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
+      readings: J&M, Chaps 12
+      readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
     - date: Nov 7
       paper: Paper Presentation III
       quiz: Quiz 4
