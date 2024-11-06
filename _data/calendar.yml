@@ -147,24 +147,24 @@
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
       slides: "./assets/slides/24f-csci544-appliednlp-lec19-post-training.pdf"
-      paper: + Paper Presentation I
+      paper: + Paper Presentations I
 
 - week: 11
   days:
     - date: Nov 5
-      paper: Paper Presentation II
+      paper: + Paper Presentations II
       theme: LLMs - Preference Tuning + Harms
       slides: "./assets/slides/24f-csci544-appliednlp-lec20-rlhf-harms.pdf"
       readings: J&M, Chaps 12
       readingslink: https://web.stanford.edu/~jurafsky/slp3/12.pdf
     - date: Nov 7
-      paper: Paper Presentation III
+      paper: Paper Presentations III
       quiz: Quiz 4
 
 - week: 12
   days:
     - date: Nov 12
-      paper: Paper Presentation IV
+      paper: Paper Presentations IV
       quiz: Quiz 5
     - date: Nov 14
       theme: Guest Lecture on Pretraining LLMs by <a href="https://willieneis.github.io/">Prof. Neiswanger</a>
@@ -173,14 +173,14 @@
 - week: 13
   days:
     - date: Nov 19
-      project: Project Presentation I
+      project: Project Presentations I
       slides:
       readings:
       readingslink:
       additional:
       additionallink:
     - date: Nov 21
-      project: Project Presentation II
+      project: Project Presentations II
       slides:
       readings:
       readingslink:
@@ -189,7 +189,7 @@
 - week: 14
   days:
     - date: Nov 26
-      project: Project Presentation III
+      project: Project Presentations III
     - date: Nov 28
       break: Thanksgiving
 
@@ -197,7 +197,7 @@
 - week: 15
   days:
     - date: Dec 3
-      project: Project Presentation IV
+      project: Project Presentations IV
     - date: Dec 5
       exam: Final Exam
 
