@@ -32,7 +32,19 @@ While the initial results might be inconclusive, you are expected to have made n
 
 ### Project final presentation (10%).
 
-Instructions coming soon.
+- Each team will prepare a 5-6 minute presentation, depending on the size of your team (5 or 6 students), followed by 2 minutes of Q/A.
+- Each student in the team must present an equal share of the work for 1 minute each.
+- Points will be deducted if the time limit is violated (i.e. a teammate speaks for longer than 1 minute, or less than 1 minute), so please practice timing your talk. We will be very strict about this.
+- Each project presentation should describe
+    - the underlying motivation of the project,
+    - the research questions answered in the project,
+    - the proposed methods, and
+    - their findings so far, as well as
+    - address audience questions.
+- All members of the team are expected to identify the central points of the research, and present that research to the class, as well as answer questions from the instructor, TAs and fellow students.
+- If you are in the audience, you could participate in asking questions - bonus points will be awarded to folks who ask insightful questions (and clearly announce their name before asking a question).
+- Each team will prepare slides (via Google slides) to be shared with their assigned TAs by 11:59 PM the day before the presentation. Failure to share slides on time will cause a loss of grade.
+
 
 
 
