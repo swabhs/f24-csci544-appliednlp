@@ -167,7 +167,8 @@
       paper: Paper Presentations IV
       quiz: Quiz 5
     - date: Nov 14
-      theme: Guest Lecture on Pretraining LLMs by <a href="https://willieneis.github.io/">Prof. Neiswanger</a>
+      theme: Guest Lecture on Pretraining LLMs by Prof. Neiswanger
+      slides: "./assets/slides/24f-csci544-appliednlp-lec21-guest-lecture-pretraining-llms.pdf"
       due: HW4 Due
 
 - week: 13
