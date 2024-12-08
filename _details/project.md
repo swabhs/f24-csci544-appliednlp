@@ -50,11 +50,19 @@ While the initial results might be inconclusive, you are expected to have made n
 
 ### Project final report (18%).
 
-Instructions coming soon.
-
-
-
-*All written assignments related to the final project should use the standard [*ACL paper submission template](https://github.com/acl-org/acl-style-files).
+Student teams should submit a ~6-8 page final report ((again using the [*CL paper submission template](https://github.com/acl-org/acl-style-files))) detailing all aspects of their project.
+The report should be structured like a conference paper (similar to the papers that students read and presented in class), including
+- an abstract,
+- an introduction to their problem and method,
+- related work, highlighting the similarities and differences to their own work,
+- a description of the method used to addressed the problem,
+- the experiments and results, and
+- a discussion of the results, outlining future work possibilites.
+A tech report format is discouraged.
+Parts of the proposal and progress report may be reused for the final report.
+Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed method did not work as anticipated.
+You may include an appendix at the very end.
+References and the appendix di not count towards the main report page limit (i.e. can exceed 8 pages).
 
 
 # Example Projects
