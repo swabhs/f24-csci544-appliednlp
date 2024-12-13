@@ -50,7 +50,7 @@ While the initial results might be inconclusive, you are expected to have made n
 
 ### Project final report (18%).
 
-Student teams should submit a ~6-8 page final report ((again using the [*CL paper submission template](https://github.com/acl-org/acl-style-files))) detailing all aspects of their project.
+Student teams should submit a ~6-8 page final report (again using the [*CL paper submission template](https://github.com/acl-org/acl-style-files)) detailing all aspects of their project.
 The report should be structured like a conference paper (similar to the papers that students read and presented in class), including
 - an abstract,
 - an introduction to their problem and method,
@@ -62,7 +62,9 @@ A tech report format is discouraged.
 Parts of the proposal and progress report may be reused for the final report.
 Negative results will not be penalized, but should be accompanied with detailed analysis of why the proposed method did not work as anticipated.
 You may include an appendix at the very end.
-References and the appendix di not count towards the main report page limit (i.e. can exceed 8 pages).
+References and the appendix do not count towards the main report page limit (i.e. can exceed 8 pages).
+You MUST submit all your code as a final deliverable as a zip file (points will be deducted if we do not get this in time).
+PLAGIARISM will be strictly penalized, see [here](https://swabhs.com/f24-csci544-appliednlp/details/policies/#academic-conduct) for more details.
 
 
 # Example Projects
