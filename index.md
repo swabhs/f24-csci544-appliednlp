@@ -177,3 +177,14 @@ Students are required to have taken [CSCI-270 Introduction to Algorithms and The
   <!-- - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/). -->
 - Undergraduate-level Special Topics: Language Models in NLP [Fall 2023](https://swabhs.com/fall23-csci499-lm4nlp/)
   <!-- - See [previous class projects here](https://swabhs.com/fall23-csci499-lm4nlp/details/class-projects/). -->
+
+## Highlighted 544 Projects
+
+* [Examining Speaker Bias in LLM Based on Prompts in African American Vernacular English vs. Standard American English](/assets/reports/highlights/smerdon-et-al-544-covert-biases.pdf)
+  * Claire Smerdon, Ogheneyoma Akoni, Pooja Patel, Jevon Torres, Kritee Kondapally
+* [Diverse Code Generation with Large Language Models](/assets/reports/highlights/feng-et-al-544-diverse-codegen.pdf)
+  * David Haolong Lee, Dhruv Tarsadiya,	Shirley Yu,	Melody Gui, Jason Feng
+* [RLHF-based Optimization of Recommendations Using Large Language Models](/assets/reports/highlights/you-et-al-544-rlhf.pdf)
+  * Fanyu You, Rishabh Agrawal, Mingxi Wang, Rutik Rajendra Yerunkar, Yash Gawankar
+* [Solving NYT Connections using Language Models](/assets/reports/highlights/shah-et-al-544-nyt-connections.pdf)
+  * Taraj Shah, Nupoor Dode, Neelam Somai, Harshavardhan Alimi, Xusheng Feng
